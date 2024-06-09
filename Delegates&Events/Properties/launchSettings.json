@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Delegates&Events": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
